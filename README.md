@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a student at Ulsan University
+
 
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/bpily)](https://www.facebook.com/bpily)
 
